@@ -49,7 +49,7 @@ div[class^="col-sm"]{
     border-radius:5%;
     }
 
-img{height:100%;width:100%;border-radius:5%;} 
+img{height:100%;width:100%;border-radius:5%;border:solid yellow;} 
 
 /*========================================================
 --------------------------------SOUP PAGE -------------------
@@ -64,6 +64,9 @@ div[class^="col-md"]{
     margin-top: 10px;
     }
 /*indian red*/
+
+#hide{display:none;}
+button{margin:20px;}
 
 @media only screen and (max-width: 360px) and (min-width: 320px){
     h1{font-size: 40px;}
