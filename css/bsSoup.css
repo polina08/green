@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Playball');
+@import url('https://fonts.googleapis.com/css?family=Playball|Forum|Happy+Monkey|Metamorphous|Overlock|Yeon+Sung');
 
 html,body{height:100%;margin:0;} 
 *{box-sizing: border-box;margin:0;}
@@ -55,8 +55,8 @@ img{height:100%;width:100%;border-radius:5%;border:solid yellow;}
 --------------------------------SOUP PAGE -------------------
 ==========================================================*/
 
-h3{color:#b03636;font-family:cursive;}
-h4,ul,ol{font-family:cursive;}
+h3{color:#b03636;font-family:'Happy Monkey', cursive;}
+h4,ul,ol{font-family: 'Happy Monkey', cursive;}
 
 div[class^="col-md"]{
     border:dotted #cbb91a /*khaki*/;
