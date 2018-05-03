@@ -1,5 +1,7 @@
 $(document).ready(function(){ 
-    $("#show").click(function(){
-        $("#hide").show();
+    $("#pip").hide()
+});  
+
+   $("#show").click(function(){
+        $("#pip").show();
     });
-});
