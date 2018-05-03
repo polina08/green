@@ -43,7 +43,8 @@ nav a:hover{color:#ffa500;}
 /*========================================================
 --------------------------------CONTAINER-------------------
 ==========================================================*/
-
+p{margin:10px;text-align: center;
+font-family:'Happy Monkey', cursive;color:#b03636;}
 div[class^="col-sm"]{
     border:solid red;
     margin:20px;
@@ -66,7 +67,7 @@ div[class^="col-md"]{
     }
 /*indian red*/
 
-#hide{display:none;}
+
 button{margin:20px;}
 
 @media only screen and (max-width: 360px) and (min-width: 320px){
